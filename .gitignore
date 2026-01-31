@@ -1,0 +1,9 @@
+node_modules/
+public/bundle.js
+.env
+*.log
+dist/
+.next/
+data/
+*.db
+*.sqlite
