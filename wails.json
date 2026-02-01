@@ -1,0 +1,19 @@
+{
+  "name": "Restaurant POS",
+  "outputfilename": "restaurant-pos",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Mohamed",
+    "email": "mohamed@example.com"
+  },
+  "info": {
+    "companyName": "Restaurant POS",
+    "productName": "Restaurant POS",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright 2024",
+    "comments": "Modern Restaurant POS System"
+  }
+}
